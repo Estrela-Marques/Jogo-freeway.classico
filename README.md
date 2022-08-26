@@ -6,8 +6,6 @@
 
 ## Tecnologias
 
-- HTML;
-- CSS;
 - JavaScript.
 
 ## Link do projeto
